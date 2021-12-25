@@ -4,7 +4,10 @@
   <li>On GitHub, click profile and select 'Settings'</li>
   <li>Then select 'Developer settings'</li>
   <li>From available options select 'Personal access token'</li>
+  <li>Enter a descriptive name for PAT</li>
+  <li>For Scopes: Select 'workflow', this should auto select 'repo'</li>
   <li>Click 'Generate new token'</li>
+  
   <li>TO_DO:Add details about specfic options to pick + links or pictures</li>
 </ul>
 <h3>Enable SSO</h3>
